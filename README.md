@@ -1,6 +1,10 @@
 # Skylark Ridge
 
-A 3D chase-view flight game built for the make.fun bounty **“Make the best flight game”**. Fly a valley, thread golden rings, manage fuel, and chase a high score — all offline, in a desktop browser, with no build step and no network requests.
+[![make.fun · best-flight-game-20261126-0057](https://make.fun/badge/best-flight-game-20261126-0057.svg)](https://make.fun/bounty/best-flight-game-20261126-0057?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+[![rank](https://make.fun/badge/best-flight-game-20261126-0057/Vikash9-cloud/skylark-ridge/rank.svg)](https://make.fun/bounty/best-flight-game-20261126-0057/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+[![reward](https://make.fun/badge/best-flight-game-20261126-0057/Vikash9-cloud/skylark-ridge/reward.svg)](https://make.fun/bounty/best-flight-game-20261126-0057?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+
+A 3D chase-view flight game built for the make.fun bounty **“Make the best flight game”** — see the bounty at [make.fun/bounty/best-flight-game-20261126-0057](https://make.fun/bounty/best-flight-game-20261126-0057). Fly a valley, thread golden rings, manage fuel, and chase a high score — all offline, in a desktop browser, with no build step and no network requests.
 
 ## Gameplay
 
